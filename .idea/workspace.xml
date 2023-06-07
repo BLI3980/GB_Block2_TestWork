@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37089660-593f-4757-9cff-d8a038ba1852" name="Changes" comment="" />
+    <list default="true" id="37089660-593f-4757-9cff-d8a038ba1852" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/3_Register/Config/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Register/Controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Register/Model/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Register/Model/Genuses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Register/View/Views.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
